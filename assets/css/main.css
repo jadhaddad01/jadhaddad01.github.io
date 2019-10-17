@@ -1278,7 +1278,7 @@ input, select, textarea {
 		#bg:after {
 			background-image: url("../../images/cloud.jpg");
 			background-position: bottom;
-			background-size: cover;
+			background-size: auto 100%;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
